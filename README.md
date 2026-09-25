@@ -1,5 +1,4 @@
 # NETWORKWALKS-B083-WK3-PM4-CYBERSECURITY-PDF-Password-Cracking-John-the-Ripper
-Cracking a document password using JTR
 
 # PDF Password Cracking with John the Ripper
 </div>
@@ -50,25 +49,25 @@ The exercise followed these general steps:
 
 John the Ripper was used from the Kali Linux environment to perform the password recovery process.
 
-![Cracking PDF with Kali Linux](screenshots/01-kali-cracking.png)
+![Cracking PDF with Kali Linux](https://github.com/Kayfactorial/NETWORKWALKS-B083-WK3-PM2-CYBERSECURITY-PDF-Password-Cracking-John-the-Ripper/blob/7666388dcb84a14fc899c4d812df9a4077637757/JTR01.png)
 
 ### 2. Generating the Hash and Recovering the Password
 
 The PDF hash was generated and supplied to the cracking process.
 
-![Generating hash and recovering password](screenshots/02-hash-and-password.png)
+![Generating hash and recovering password](https://github.com/Kayfactorial/NETWORKWALKS-B083-WK3-PM2-CYBERSECURITY-PDF-Password-Cracking-John-the-Ripper/blob/7666388dcb84a14fc899c4d812df9a4077637757/JTR02.png)
 
 ### 3. Entering the Recovered Password
 
 The recovered password was entered into the protected PDF.
 
-![Entering recovered password](screenshots/03-entering-password.png)
+![Entering recovered password](https://github.com/Kayfactorial/NETWORKWALKS-B083-WK3-PM2-CYBERSECURITY-PDF-Password-Cracking-John-the-Ripper/blob/7666388dcb84a14fc899c4d812df9a4077637757/JTR03.png)
 
 ### 4. Accessing the Document
 
 The password was accepted and the protected document was successfully opened.
 
-![Accessing PDF](screenshots/04-document-access.png)
+![Accessing PDF](https://github.com/Kayfactorial/NETWORKWALKS-B083-WK3-PM2-CYBERSECURITY-PDF-Password-Cracking-John-the-Ripper/blob/7666388dcb84a14fc899c4d812df9a4077637757/JTR04.png)
 
 ## Key Learning
 
@@ -85,7 +84,7 @@ It also helped reinforce the importance of strong passwords and understanding ho
 
 ## Ethical Considerations
 
-John the Ripper should only be used against passwords, files or systems for which you have explicit authorization.
+John the Ripper should only be used against passwords, files, or systems for which you have explicit authorization.
 
 This project was completed strictly within the context of an authorized cybersecurity learning assignment.
 
@@ -95,6 +94,6 @@ NetworkWalks Ethical Hacking Week 3 Assignment.
 
 ## Author
 
-**Adio Gabriel**
+**Adio Kabiru**
 
-Network Engineer | Network Security | Cybersecurity Learner
+Network Engineer | Network Security | Cybersecurity | Telecommunication Engineer
